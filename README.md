@@ -1,8 +1,14 @@
-# React + Vite
+<h1>React Price Cards Task</h1>
+<p>This webpage is used to show subscription package in a webpage.</p>
+<p>In this page holds Subscription Amount, and features.</p>
+<p>Its completely Responsive.</p>
+<p>I used Html,CSS,Bootstrap,ReactJS using Components for developing this page with Responsive.</p>
+<p>I attached Webpage Screenshots in below:</p>  <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Website URL</h2>
+https://react-pricecards.netlify.app/
 
-Currently, two official plugins are available:
+<h2>Screenshots</h2>
+<p>1. Its main web page</p>
+<img src="./public/screenshot.png" alt="screenshot"><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
