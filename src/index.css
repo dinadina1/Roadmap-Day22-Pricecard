@@ -1,0 +1,38 @@
+body {
+    font-family: "Poppins";
+    background-color: rgb(77, 152, 250);
+}
+.card{
+    border-radius: 20px;
+}
+.card-body h1{
+    font-weight: bold;
+    margin: 8px;
+}
+.list-unstyled li{
+    margin-top: 10px;
+}
+.container .heading{
+    color: whitesmoke;
+    font-weight: bold;
+}
+.btn{
+    font-weight: bold;
+}
+
+.card:hover {
+    transform-origin: 50% 50%;
+    animation: pulse-animation 1s ease-in-out 0s 1 normal both running;
+}
+
+@keyframes pulse-animation {
+
+    0%,
+    100% {
+        transform: scaleX(1);
+    }
+
+    50% {
+        transform: scale3d(1.05, 1.05, 1.05);
+    }
+}
